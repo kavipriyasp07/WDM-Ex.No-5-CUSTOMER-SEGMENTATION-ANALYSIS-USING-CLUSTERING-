@@ -1,5 +1,5 @@
 # WDM-Ex.No-5-CUSTOMER-SEGMENTATION-ANALYSIS-USING-CLUSTERING-
-## Name: Madhu Mitha V
+## Name: Kavipriya SP
 ## Date:
 **Aim:** 
 To perform an unsupervised clustering of data on the customer's records from a groceries firm's database.  
